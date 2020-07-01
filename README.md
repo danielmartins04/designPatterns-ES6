@@ -1,4 +1,4 @@
-# designPatternsWithES6
+# design Patterns Com ES6
 
 **Factory**: Todas as funções que retornam um objeto, sem a necessidade de chamá-las com o new, são consideradas funções Factory.
 
